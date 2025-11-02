@@ -1,3 +1,20 @@
 {
-    "data" : []
+  "artworks": [
+    {
+      "title": "Nature Art",
+      "artist": "Calvin Kevin",
+      "image": "https://dessineart.com/cdn/shop/products/A-Black-Frame-landscape-painting-house-near-the-sea_720x.jpg?v=1643384015",
+      "description": "landscape painting house near the sea, Landscape Painting, Nature Art",
+      "price": "3999",
+      "id": 1
+    },
+    {
+      "title": "Italian Tuscany Cypresses",
+      "artist": "Paysage Gallerie",
+      "image": "https://dessineart.com/cdn/shop/products/A-Black-Frame-Landscape-Painting-of-Italian-Tuscany-Cypresses_720x.jpg?v=1643384034",
+      "description": "Cypresses, Landscape Painting, Nature Art",
+      "price": "1999",
+      "id": 2
+    }
+  ]
 }
